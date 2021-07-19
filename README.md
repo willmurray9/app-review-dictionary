@@ -1,2 +1,3 @@
-# app-review-dictionary
-I tried to figure out what features or aspects of personal finance apps cause users to leave positive versus negative reviews.
+# Financial-App-Analysis
+
+This project was initially started as an independent side project as a way for me to improve my Python abilities, and as a way for me to learn more about the financial app industry. I initially intended to scrape the Google Play store and use the resulting data set to create some basic visuals and conduct a simple statistical analysis. However, upon reviewing my data set, I discovered that it would be difficult to uncover any useful insights from the limited number of variables that I had scraped. I tried to think of other ways to make my project meaningful, which was when I came up with the idea of scraping the text from app reviews instead. With this new data set I would be able to find the popularity of specific words in reviews of different star ratings. I decided the most effective groupings would be to parse through the five star reviews and then compare my results against the one star reviews. 

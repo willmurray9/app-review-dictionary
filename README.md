@@ -4,5 +4,5 @@ This project was initially started as an independent side project as a way for m
 
 After doing so, I found some interesting results. From there I used Tableau to create a simple bubble chart to help visualize the most common words. The most interesting takeaway that I noticed was how overwhelmingly often negative reviews are related to poor customer service. I expected to see a blend of negative comments about a given app's features and their customer service, but hardly any of the most common words found in one star reviews seemed related to app features. To me, my findings emphasized the importance of providing fast, reliable customer service in tandem with simple, user-friendly features when developing a personal finance app.
 
-I drew inspiration and got my project moving with help from Venelin Valkov's article for Towards Data Science, which is linked for reading here:
+I drew inspiration and got my project moving with help from Venelin Valkov's article for Towards Data Science (linked for reading here):
 https://towardsdatascience.com/create-dataset-for-sentiment-analysis-by-scraping-google-play-app-reviews-using-python-ceaaa0e41c1 

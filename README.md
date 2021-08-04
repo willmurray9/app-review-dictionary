@@ -15,5 +15,6 @@ For me, the most significant takeaways from this project are the importance of h
 Thanks to my newfound confidence, I look forward to working on future projects and continuing to develop my skill set through personal exploration. See you next time!
 
 **Sources**
+
 I drew inspiration and got my project moving with help from Venelin Valkov's article for Towards Data Science (linked for reading here):
 https://towardsdatascience.com/create-dataset-for-sentiment-analysis-by-scraping-google-play-app-reviews-using-python-ceaaa0e41c1 
